@@ -15,7 +15,7 @@ public class Jason : ICEOWhoActuallyCodes
 ## 🚀 What I'm Up To
 
 - 🏗️ **Leading the Great Migration™** - Taking Mortgage Automator from PHP to .NET (because apparently I enjoy pain)
-- 💰 **Running a $15M ARR SaaS** - Helping Canadian lenders automate their mortgage origination (it's more exciting than it sounds, I promise)
+- 💰 **Fixing PE-backed Tech Companies** - Helping teardown and rebuild tech-companies for PE companies (it's more exciting than it sounds, I promise)
 - 🤖 **AI Tool Showdown Champion** - Currently in a polyamorous relationship with Cursor, Claude, and Amp
 - 🖥️ **KVM Enthusiast** - Because why have one computer when your Dell U4025QW can handle two?
 - 📝 **Crafting the Perfect Job Posts** - "We're looking for a CTO who can spell Kubernetes and isn't afraid of legacy code"
