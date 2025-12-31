@@ -70,6 +70,6 @@ Times actually did it: 0
 
 *"In a world of 'move fast and break things,' I prefer 'migrate carefully and fix things that have been broken since 2009'"*
 
-**Currently hiring:** If you can spell "dependency injection" and know why it matters, [we should talk](mailto:your-email@mortgageautomator.com)
+**Currently hiring:** If you can spell "dependency injection" and know why it matters, [we should talk](mailto:jason@mortgageautomator.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jason.jason)
