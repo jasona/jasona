@@ -68,7 +68,7 @@ Times actually did it: 0
 
 ---
 
-*"In a world of 'move fast and break things,' I prefer 'migrate carefully and fix things that have been broken since 2009'"*
+*"In a world of 'move fast and break things,' I prefer 'migrate carefully and fix things that have been broken since 2009'... ehhhh, who am I kidding? Sometimes you have to move fast and break things, too. And, doggonnit, it's fun!"*
 
 **Currently hiring:** If you can spell "dependency injection" and know why it matters, [we should talk](mailto:jason@mortgageautomator.com)
 
