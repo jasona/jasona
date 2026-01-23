@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Jason
 
-### CEO by day, .NET migration warrior by night, motorcycle comparison enthusiast on weekends
+### CEO and tech-fixer by day, AI enthusiast by night, so-called "biker" on weekends
 
 ```csharp
 public class Jason : ICEOWhoActuallyCodes
 {
     private readonly Coffee _fuel = new Coffee(Size.Venti, Shots.Quad);
-    private readonly string _currentMission = "Dragging legacy PHP into the promised land of .NET";
+    private readonly string _currentMission = "Dragging legacy code into the promised land";
     
     public string CurrentStatus => "Converting 15 years of technical debt into technical credit";
 }
@@ -54,6 +54,7 @@ Times actually did it: 0
 
 - You know the secret to migrating from PHP to .NET without crying
 - You're a .NET developer who isn't scared of mortgage industry acronyms
+- You know the wizardry of Opus 4.5, and can wield it with precision
 - You have opinions about Model Context Protocol implementations
 - You can explain why my unit tests pass locally but fail in CI
 - You're interested in joining a Toronto tech team that's actually building something people use
