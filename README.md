@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jason
 
-![Rust, GPUI, TypeScript, and Arch Linux](assets/stack.svg)
+![Rust, GPUI, TypeScript, and Omarchy](assets/stack.svg)
 
 I'm a **technology executive and software builder** in Cave Creek, Arizona. I work with **private-equity-backed software businesses** on technology, product, and engineering. After 30+ years building software and leading teams, I still want to be the person writing the code.
 
@@ -16,13 +16,21 @@ struct Jason {
 
 const ME: Jason = Jason {
     stack: ["Rust", "GPUI", "TypeScript"],
-    desktop: "Arch Linux / Omarchy",
+    desktop: "Omarchy, my daily driver",
     darkwind_since: 1992,
     next_project: "A quick weekend thing. Allegedly.",
 };
 
 // The borrow checker and I are working on our relationship.
 ```
+
+## 🐧 All in on Omarchy
+
+After **30 years on macOS**, I switched to **[Omarchy](https://omarchy.org/)** as my daily driver. I love it, and I'm investing a lot of time and effort into building for it.
+
+That means native apps for notes, calendars, email, and AI-assisted development. I'm building for the desktop I use every day, and I want to help the Omarchy ecosystem grow.
+
+I switched operating systems and somehow acquired an application backlog. 🛠️
 
 ## 🚧 Things that were supposed to be small projects
 
@@ -51,12 +59,13 @@ I started running a MUD and apparently never found the exit. Fortunately, there 
 - 🦀 **Desktop:** Rust + GPUI.
 - 💙 **Web and services:** TypeScript, Node.js, React.
 - 🗄️ **Data:** PostgreSQL and SQLite. Some things deserve to survive a reboot.
-- 🐧 **Infrastructure:** Arch Linux / Omarchy, Docker, Coolify, Traefik.
+- 🐧 **Daily driver:** Omarchy.
+- 🐳 **Deployment:** Docker, Coolify, Traefik.
 - 🤖 **Building with AI:** Coding agents and MCP are part of my daily workflow. The TODO list has responded by getting longer.
 
 ## 🤝 Say hello
 
-I'm always interested in software businesses, native apps, AI-assisted development, and persistent game worlds.
+I'm always interested in software businesses, Omarchy, native apps, AI-assisted development, and persistent game worlds.
 
 If your next project starts with “this should only take a weekend,” we already have something in common. ☕
 
