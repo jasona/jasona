@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="732" height="44" viewBox="0 0 732 44" role="img" aria-labelledby="title">
+  <title id="title">Rust, GPUI, TypeScript, and Arch Linux</title>
+  <g fill="#fff" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle">
+    <rect width="156" height="44" rx="8" fill="#ba4116"/>
+    <text x="78" y="29">Rust</text>
+    <rect x="168" width="156" height="44" rx="8" fill="#7440c9"/>
+    <text x="246" y="29">GPUI</text>
+    <rect x="336" width="194" height="44" rx="8" fill="#2463a6"/>
+    <text x="433" y="29">TypeScript</text>
+    <rect x="542" width="190" height="44" rx="8" fill="#096480"/>
+    <text x="637" y="29">Arch Linux</text>
+  </g>
+</svg>
