@@ -1,101 +1,40 @@
-# 👋 Hi, I'm Jason
-### CEO and tech-fixer by day, MUD operator since 1992, "biker" on weekends
+# Hi, I'm Jason
 
-```csharp
-public class Jason : ICEOWhoActuallyCodes
-{
-    private readonly Coffee _fuel = new Coffee(Size.Venti, Shots.Quad);
-    private readonly string _currentMission = "Dragging legacy code into the promised land";
-    private readonly string _secretIdentity = "MUD operator, node wrangler, VPS whisperer";
-    
-    public string CurrentStatus => "Converting 15 years of technical debt into technical credit";
-    public bool StillRunningMUDFrom1992 => true; // yes, really
-}
-```
+I'm a technology executive and software builder in Cave Creek, Arizona. I work with private-equity-backed software businesses on technology strategy, product, and engineering. I've spent 30+ years building software and leading teams, and I still spend plenty of time writing code.
 
-## 🚀 What I'm Up To
+My current focus is **Rust and GPUI** for native desktop apps and **TypeScript** for web applications and services. I'm interested in software that works offline, keeps your data on your machine, and makes everyday work easier. AI coding agents and MCP are a regular part of how I build, usually on Linux and Omarchy.
 
-- 🏗️ **Leading the Great Migration™** - Taking Mortgage Automator from PHP to .NET (because apparently I enjoy pain)
-- 🤖 **MCP Power User** - Running Jira, HubSpot, and Slack MCP servers for cross-system analytics before most people could spell it
-- 🌍 **Building Valdoria** - An actual game world running on my VPS, because 30 years of MUD operation wasn't enough
-- 🧠 **AI Nerds Community** - Running a Discord for builders using AI as a force multiplier (not a replacement for thinking)
-- 📡 **Figma MCP + GitHub Copilot** - Integrating the whole AI toolchain into a real .NET migration project (Maker Recast)
-- 🖥️ **KVM Enthusiast** - Because why have one computer when your Dell U4025QW can handle two?
+## What I'm building
 
-## 🛠️ Tech Stack & Interests
+Most of my current desktop work lives at [Last Refuge](https://github.com/last-refuge).
 
-```javascript
-const techStack = {
-    migrating_from: ["PHP", "Technical Debt", "Sleepless Nights"],
-    migrating_to: ["C#", ".NET", "Modern Architecture", "Slightly Less Sleepless Nights"],
-    
-    infrastructure: ["Coolify", "Traefik", "Docker", "Let's Encrypt (once you configure it correctly)"],
-    mcp_stack: ["Jira MCP", "HubSpot MCP", "Slack MCP", "Figma MCP", "Claude Desktop"],
-    
-    side_projects: ["MudForge (Node.js/TypeScript MUD driver)", "Valdoria game world", "AI ad-blocking architecture"],
-    
-    exploring: ["RISC-V assembly (yes, seriously)", "Local ML models", "Semantic content classification"],
-    
-    audio: ["Sonos multi-room", "Raspberry Pi controllers", "WiiM as an escape hatch"],
-    
-    ai_tools: ["Cursor", "Claude", "Amp", "OpenClaw AI gateway"],
-    
-    life_optimization: ["MCP read-only reporting (the only safe rollout)", "Slack channel naming conventions", "Astrology for team compatibility"]
-};
-```
+| Project | What it does |
+| --- | --- |
+| [Pipkin](https://github.com/last-refuge/pipkin) | A native desktop coding agent with a Rust engine and GPUI interface. |
+| [Overlook](https://github.com/last-refuge/overlook) | A native Linux mail, calendar, and contacts client with offline support. |
+| [Lazy](https://github.com/last-refuge/lazy) | Workplace chat with native desktop clients and a server you host yourself. |
+| [Omarchy Notes](https://github.com/last-refuge/omarchy-notes) | Local, offline notes built with Rust and GPUI. |
+| [Omarchy Calendar](https://github.com/last-refuge/omarchy-calendar) | A native calendar that works offline and syncs with Google Calendar. |
 
-## 🎮 DarkWind MUD — Running Since 1992
+I'm also developing [Cerebro](https://github.com/jasona/cerebro), a prototype for interactive executive briefings with source-backed Q&A.
 
-Not a typo. I've been operating a MUD for over 30 years. Now actively developing **MudForge** — a modern Node.js/TypeScript MUD driver — and building out **Valdoria**, a full game world with lore, narrators, and an atmosphere that GitHub Copilot definitely didn't write.
+## DarkWind, since 1992
 
-→ [`github.com/jasona/mudforge`](https://github.com/jasona/mudforge) | Play: `play.nocthryn.com`
+I've been operating [DarkWind](https://darkwind.ai/) since 1992. It's a multiplayer fantasy world with decades of history, an active community, and ongoing work on the game and browser experience.
 
-## 🎯 Current Side Quests
+Apparently, a side project can last more than three decades.
 
-- 🏍️ Still researching Indian Challenger vs. Triumph Rocket 3 torque curves (it's *science*)
-- ♈ Using astrology to optimize team compatibility (Aries energy in the C-suite, don't @ me)
-- 🔐 Designing AI-powered ad blocking that defeats anti-adblock detection (semantic classification FTW)
-- 🇨🇦🇺🇸 Navigating cross-border employment law, Ontario RIF procedures, and PE reporting simultaneously
-- 🎛️ Raspberry Pi Sonos controller — because why buy a solution when you can build one
+[Play in your browser](https://play.darkwind.ai/) · [Public documentation and contributions](https://github.com/jasona/darkwind-public)
 
-## 📊 GitHub Stats That Matter
+## Tools I reach for
 
-```
-Commits before coffee:              0
-Commits after coffee:               ∞
-Legacy code refactored:             Some
-Legacy code remaining:              Yes
-MUDs operated since 1992:           1 (still running)
-MCP servers configured on Windows:  More than I planned
-Times considered rewriting in Rust: 47
-Times actually did it:              0
-RISC-V assembly labs completed:     Ask me tomorrow
-VPS SSL cert issues resolved:       Eventually
-```
+- **Desktop:** Rust, GPUI
+- **Web and services:** TypeScript, Node.js, React
+- **Data:** PostgreSQL, SQLite
+- **Infrastructure:** Linux, Arch/Omarchy, Docker, Coolify, Traefik
 
-## 🤝 Let's Connect If...
+## Get in touch
 
-- You know the secret to migrating PHP to .NET without crying (or at least have good coping strategies)
-- You're a .NET developer who isn't scared of mortgage industry acronyms
-- You have opinions about MCP implementations — especially the read-only kind, the only kind ready for non-technical rollout
-- You think running a MUD since 1992 is cool rather than concerning
-- You want to talk AI tooling strategy without the hype (Cursor vs. Claude vs. Amp — I have data)
-- You're building something real with AI, not just prompting your way through life
-- You're interested in joining a Toronto tech team that's actually building something people use
+I'm always interested in talking about software businesses, native apps, AI-assisted development, and persistent game worlds.
 
-## 🎪 Fun Facts
-
-- I've been running the same MUD since Bill Clinton's first term
-- I build AI-powered analytics dashboards connecting Jira support tickets to HubSpot ACV data, because someone has to
-- My Coolify VPS has survived more Let's Encrypt renewal cycles than I care to count
-- I once spent a weekend configuring a Raspberry Pi Sonos controller instead of just buying a Sonos app subscription
-- Yes, I have strong opinions about `claude_desktop_config.json` on Windows. No, I won't apologize.
-- Running an "AI Nerds" Discord while also running a 1992 MUD is perfectly normal behavior
-
----
-
-*"In a world of 'move fast and break things,' I prefer 'migrate carefully and fix things that have been broken since 2009'... ehhhh, who am I kidding? Sometimes you have to move fast and break things, too. And, doggonnit, it's fun!"*
-
-**Currently hiring:** If you can spell "dependency injection" and know why it matters, [we should talk](mailto:jason@mortgageautomator.com)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jason.jason)
+[Website](https://jasona.ai/) · [Contact](https://jasona.ai/contact)
